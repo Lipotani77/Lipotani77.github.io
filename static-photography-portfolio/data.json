@@ -1,0 +1,75 @@
+{
+  "site": {
+    "title": "Jane Doe.",
+    "subtitle": "Capturing Light & Life.",
+    "about": "Professional photography and videography for weddings, corporate events, and lifestyle."
+  },
+  "categories": [
+    {
+      "id": "weddings",
+      "name": "Weddings",
+      "description": "Intimate & unforgettable moments from your special day.",
+      "featured": true,
+      "thumbnail": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "corporate",
+      "name": "Corporate",
+      "description": "Professional headshots, event coverage, and branding.",
+      "featured": true,
+      "thumbnail": "https://images.unsplash.com/photo-1556761175-5973e8fa2981?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "description": "Authentic, everyday moments captured beautifully.",
+      "featured": true,
+      "thumbnail": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "description": "Landscapes and wild beauty.",
+      "featured": false,
+      "thumbnail": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=800&auto=format&fit=crop"
+    }
+  ],
+  "photos": [
+    {
+      "id": "w1",
+      "categoryId": "weddings",
+      "url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=600&auto=format&fit=crop",
+      "alt": "Couple dancing at wedding"
+    },
+    {
+      "id": "w2",
+      "categoryId": "weddings",
+      "url": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=600&auto=format&fit=crop",
+      "alt": "Wedding table setup"
+    },
+    {
+      "id": "c1",
+      "categoryId": "corporate",
+      "url": "https://images.unsplash.com/photo-1556761175-5973e8fa2981?q=80&w=600&auto=format&fit=crop",
+      "alt": "Colleagues in an office"
+    },
+    {
+      "id": "c2",
+      "categoryId": "corporate",
+      "url": "https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=600&auto=format&fit=crop",
+      "alt": "Professional working on laptop"
+    },
+    {
+      "id": "l1",
+      "categoryId": "lifestyle",
+      "url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=600&auto=format&fit=crop",
+      "alt": "Friends smiling together"
+    },
+    {
+      "id": "n1",
+      "categoryId": "nature",
+      "url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=600&auto=format&fit=crop",
+      "alt": "Beautiful mountains"
+    }
+  ]
+}

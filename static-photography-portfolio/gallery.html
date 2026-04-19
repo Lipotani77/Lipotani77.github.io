@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital@0;1&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">Jane Doe.</a>
+        <nav>
+            <a href="index.html">Work</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <div class="gallery-header">
+            <a href="index.html" class="back-link">Back to Collections</a>
+            <h1 id="gallery-title">Collection</h1>
+            <p id="gallery-description"></p>
+        </div>
+
+        <div id="masonry-gallery" class="masonry">
+            <!-- Dynamically populated via script.js -->
+        </div>
+    </main>
+
+    <footer class="footer-bar">
+        <div>Currently based in New York City</div>
+        <div>&copy; 2026 Jane Doe Photography • All Rights Reserved</div>
+        <div class="footer-links">
+            <a href="#">Instagram</a>
+            <a href="#">Vimeo</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

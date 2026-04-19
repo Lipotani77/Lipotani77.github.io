@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Contact</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital@0;1&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">Jane Doe.</a>
+        <nav>
+            <a href="index.html">Work</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <div class="contact-container">
+            <h1>Let's <i>Work</i> Together</h1>
+            <p class="subtitle">Fill out the form below or reach out directly at <strong>hello@janedoe.com</strong>.</p>
+            
+            <!-- Replace YOUR_FORM_ENDPOINT with Formspree or Web3Forms endpoint -->
+            <form action="https://formspree.io/f/YOUR_FORM_ENDPOINT" method="POST">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required placeholder="John Smith">
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required placeholder="john@example.com">
+                </div>
+                
+                <div class="form-group">
+                    <label for="subject">Subject</label>
+                    <input type="text" id="subject" name="subject" required placeholder="Wedding Inquiry / Portrait Session">
+                </div>
+                
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" rows="6" required placeholder="Tell me about your project..."></textarea>
+                </div>
+                
+                <button type="submit" class="btn" style="width: 100%;">Send Message</button>
+            </form>
+        </div>
+    </main>
+
+    <footer class="footer-bar">
+        <div>Currently based in New York City</div>
+        <div>&copy; 2026 Jane Doe Photography • All Rights Reserved</div>
+        <div class="footer-links">
+            <a href="#">Instagram</a>
+            <a href="#">Vimeo</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
