@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Alex Rivera",
+    "title": "Killian Koulourath",
     "subtitle": "Capturing the unseen through a student lens.",
     "about": "I'm Alex, a visual storyteller based in San Francisco. My work explores the relationship between urban environments and the people who inhabit them. Currently available for freelance projects, editorial shoots, and creative collaborations."
   },
@@ -25,6 +25,13 @@
       "description": "Professional events, conferences, and headshots.",
       "featured": true,
       "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05418-31_a595cf.jpg"
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "description": "Capturing everyday moments",
+      "featured": true,
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07134_spzfet"
     },
     {
       "id": "graduation",
@@ -259,6 +266,12 @@
       "id": "s1",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05164-99_l2ylvn",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "lf1",
+      "categoryId": "lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07134_spzfet",
       "alt": "Thumbnail for personalized video project"
     }
   ]
