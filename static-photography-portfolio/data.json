@@ -1,75 +1,69 @@
 {
   "site": {
-    "title": "Jane Doe.",
-    "subtitle": "Capturing Light & Life.",
-    "about": "Professional photography and videography for weddings, corporate events, and lifestyle."
+    "title": "Alex Rivera",
+    "subtitle": "Capturing the unseen through a student lens.",
+    "about": "I'm Alex, a visual storyteller based in San Francisco. My work explores the relationship between urban environments and the people who inhabit them. Currently available for freelance projects, editorial shoots, and creative collaborations."
   },
   "categories": [
     {
-      "id": "weddings",
-      "name": "Weddings",
-      "description": "Intimate & unforgettable moments from your special day.",
+      "id": "concerts",
+      "name": "Concert & Performances",
+      "description": "Capturing the energy and emotion of live shows.",
       "featured": true,
-      "thumbnail": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=800&auto=format&fit=crop"
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC2745-Enhanced-NR-1_uanywp.jpg"
+    },
+    {
+      "id": "graduation",
+      "name": "Graduation",
+      "description": "Documenting academic milestones and celebrations.",
+      "featured": true,
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08084_irg6vt.jpg"
     },
     {
       "id": "corporate",
       "name": "Corporate",
-      "description": "Professional headshots, event coverage, and branding.",
+      "description": "Professional events, conferences, and headshots.",
       "featured": true,
-      "thumbnail": "https://images.unsplash.com/photo-1556761175-5973e8fa2981?q=80&w=800&auto=format&fit=crop"
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05418-31_a595cf.jpg"
     },
     {
-      "id": "lifestyle",
-      "name": "Lifestyle",
-      "description": "Authentic, everyday moments captured beautifully.",
-      "featured": true,
-      "thumbnail": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800&auto=format&fit=crop"
-    },
-    {
-      "id": "nature",
-      "name": "Nature",
-      "description": "Landscapes and wild beauty.",
+      "id": "video",
+      "name": "Personalized Videos",
+      "description": "Dynamic storytelling through motion and sound.",
       "featured": false,
-      "thumbnail": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=800&auto=format&fit=crop"
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID"
     }
   ],
   "photos": [
     {
-      "id": "w1",
-      "categoryId": "weddings",
-      "url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=600&auto=format&fit=crop",
-      "alt": "Couple dancing at wedding"
-    },
-    {
-      "id": "w2",
-      "categoryId": "weddings",
-      "url": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=600&auto=format&fit=crop",
-      "alt": "Wedding table setup"
-    },
-    {
       "id": "c1",
-      "categoryId": "corporate",
-      "url": "https://images.unsplash.com/photo-1556761175-5973e8fa2981?q=80&w=600&auto=format&fit=crop",
-      "alt": "Colleagues in an office"
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "alt": "Crowd looking up at neon stage lights"
     },
     {
       "id": "c2",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "g1",
+      "categoryId": "graduation",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "alt": "Portrait of a graduate smiling in cap and gown"
+    },
+    {
+      "id": "corp1",
       "categoryId": "corporate",
-      "url": "https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=600&auto=format&fit=crop",
-      "alt": "Professional working on laptop"
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "alt": "Speaker smiling at a corporate event"
     },
     {
-      "id": "l1",
-      "categoryId": "lifestyle",
-      "url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=600&auto=format&fit=crop",
-      "alt": "Friends smiling together"
-    },
-    {
-      "id": "n1",
-      "categoryId": "nature",
-      "url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=600&auto=format&fit=crop",
-      "alt": "Beautiful mountains"
+      "id": "v1",
+      "categoryId": "video",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "alt": "Thumbnail for personalized video project"
     }
   ]
 }
