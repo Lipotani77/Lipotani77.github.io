@@ -13,11 +13,11 @@
       "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC2745-Enhanced-NR-1_uanywp.jpg"
     },
     {
-      "id": "graduation",
-      "name": "Graduation",
-      "description": "Documenting academic milestones and celebrations.",
+      "id": "sports",
+      "name": "sports",
+      "description": "freezing the moment",
       "featured": true,
-      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08084_irg6vt.jpg"
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04203-118_zcjxrv"
     },
     {
       "id": "corporate",
@@ -27,42 +27,238 @@
       "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05418-31_a595cf.jpg"
     },
     {
-      "id": "video",
-      "name": "Personalized Videos",
-      "description": "Dynamic storytelling through motion and sound.",
-      "featured": false,
-      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID"
+      "id": "graduation",
+      "name": "Graduation",
+      "description": "Documenting academic milestones and celebrations.",
+      "featured": true,
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08084_irg6vt.jpg"
     }
   ],
   "photos": [
     {
       "id": "c1",
       "categoryId": "concerts",
-      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2503_h03gg8",
       "alt": "Crowd looking up at neon stage lights"
     },
     {
       "id": "c2",
       "categoryId": "concerts",
-      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2513_x1mrdb",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c3",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2521_p3rgbg",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c4",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2605_mkfyp5",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c5",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2612_urcfsi",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c6",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2683_dphjs4",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c7",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2749-Edit_piclpw",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c8",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2794_vwgkst",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c9",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_2838_xpddj4",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c10",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/_DSC9873-Avec_accentuation-Bruit-1_cplhi9",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c11",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/_DSC8995-Avec_accentuation-Bruit-1_hiohri",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c12",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_5059-46_qnlekn",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c13",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_5181-69_jhm7sq",
+      "alt": "Group of friends cheering at a music festival"
+    },{
+      "id": "c14",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC2603-Enhanced-NR-1_ekhphb",
+      "alt": "Group of friends cheering at a music festival"
+    },{
+      "id": "c15",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC2745-Enhanced-NR-1_uanywp",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c16",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC2357-Enhanced-NR-1_cj3r4i",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c17",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC0713-Enhanced-NR-1_wsfiuk",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c18",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC1719-Enhanced-NR-1_tnx7z4",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c19",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07515_nqizds",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c20",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07614_yth9sp",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c21",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07608_qrsexc",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c22",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07642_zyqdln",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c22",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07662_r4wtus",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c22",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08295_inb6mo",
+      "alt": "Group of friends cheering at a music festival"
+    },
+    {
+      "id": "c22",
+      "categoryId": "concerts",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08305_rpqquc",
       "alt": "Group of friends cheering at a music festival"
     },
     {
       "id": "g1",
       "categoryId": "graduation",
-      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08328_pkrpbt",
+      "alt": "Portrait of a graduate smiling in cap and gown"
+    },
+    {
+      "id": "g2",
+      "categoryId": "graduation",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08032_e5bopw",
+      "alt": "Portrait of a graduate smiling in cap and gown"
+    },
+    {
+      "id": "g3",
+      "categoryId": "graduation",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08236_j2sodr",
       "alt": "Portrait of a graduate smiling in cap and gown"
     },
     {
       "id": "corp1",
       "categoryId": "corporate",
-      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05418-31_a595cf",
       "alt": "Speaker smiling at a corporate event"
     },
     {
-      "id": "v1",
-      "categoryId": "video",
-      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/YOUR_PUBLIC_ID",
+      "id": "s1",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04866-33_wtwius",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s2",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05169-101_uidxyr",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s3",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04303-133_fcjpub",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s1",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03897-67_fy2k4r",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s1",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03900-68_axi3pr",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s1",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03887-59_cl5g9i",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s1",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03954-90_rcd61v",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s1",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04203-118_zcjxrv",
+      "alt": "Thumbnail for personalized video project"
+    },
+    {
+      "id": "s1",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05164-99_l2ylvn",
       "alt": "Thumbnail for personalized video project"
     }
   ]
