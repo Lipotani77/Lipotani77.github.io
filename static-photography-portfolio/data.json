@@ -14,8 +14,8 @@
     },
     {
       "id": "sports",
-      "name": "sports",
-      "description": "freezing the moment",
+      "name": "Sports",
+      "description": "Freezing the moment",
       "featured": true,
       "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04203-118_zcjxrv"
     },
@@ -39,6 +39,13 @@
       "description": "Documenting academic milestones and celebrations.",
       "featured": true,
       "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08084_irg6vt.jpg"
+    },
+    {
+      "id": "travel-lifestyle",
+      "name": "Travel and Lifestyle",
+      "description": "Exploring the world and the everyday beauty within it.",
+      "featured": true,
+      "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC03395-Avec_accentuation-Bruit_bajli5"
     }
   ],
   "photos": [
@@ -119,12 +126,14 @@
       "categoryId": "concerts",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/IMG_5181-69_jhm7sq",
       "alt": "Group of friends cheering at a music festival"
-    },{
+    },
+    {
       "id": "c14",
       "categoryId": "concerts",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC2603-Enhanced-NR-1_ekhphb",
       "alt": "Group of friends cheering at a music festival"
-    },{
+    },
+    {
       "id": "c15",
       "categoryId": "concerts",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-_DSC2745-Enhanced-NR-1_uanywp",
@@ -173,19 +182,19 @@
       "alt": "Group of friends cheering at a music festival"
     },
     {
-      "id": "c22",
+      "id": "c23",
       "categoryId": "concerts",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07662_r4wtus",
       "alt": "Group of friends cheering at a music festival"
     },
     {
-      "id": "c22",
+      "id": "c24",
       "categoryId": "concerts",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08295_inb6mo",
       "alt": "Group of friends cheering at a music festival"
     },
     {
-      "id": "c22",
+      "id": "c25",
       "categoryId": "concerts",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08305_rpqquc",
       "alt": "Group of friends cheering at a music festival"
@@ -218,61 +227,331 @@
       "id": "s1",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04866-33_wtwius",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
       "id": "s2",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05169-101_uidxyr",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
       "id": "s3",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04303-133_fcjpub",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
-      "id": "s1",
+      "id": "s4",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03897-67_fy2k4r",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
-      "id": "s1",
+      "id": "s5",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03900-68_axi3pr",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
-      "id": "s1",
+      "id": "s6",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03887-59_cl5g9i",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
-      "id": "s1",
+      "id": "s7",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC03954-90_rcd61v",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
-      "id": "s1",
+      "id": "s8",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04203-118_zcjxrv",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
-      "id": "s1",
+      "id": "s9",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05164-99_l2ylvn",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Sports photography"
     },
     {
       "id": "lf1",
       "categoryId": "lifestyle",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07134_spzfet",
-      "alt": "Thumbnail for personalized video project"
+      "alt": "Lifestyle photography"
+    },
+    {
+      "id": "tl1",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC04147_hr6yxw",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl43",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC08451-6_rqfjtd",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl43",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC08491-7_wocxhn",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl2",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC04300_ssvztf",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl3",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC00871-117_ng8xem",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl4",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC03389_xbq5nz",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl5",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02409_yj4qda",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl6",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC06534_vojfio",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl7",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC03395-Avec_accentuation-Bruit_bajli5",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl8",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC03285_ge3xjg",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl9",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC03156_latdn7",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl10",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02658_gb4kdk",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl11",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02317-Avec_accentuation-Bruit_mx4it6",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl12",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02283-Avec_accentuation-Bruit_auehuh",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl13",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02271_c7ma54",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl14",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC04360-HDR-2_xhmzqw",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl15",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC09120-Avec_accentuation-Bruit-3_aejpmm",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl16",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC04405_vtxt6f",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl17",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC05436-68_mfsdnh",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl18",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC05434-67_jcwwos",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl19",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02146-Avec_accentuation-Bruit_qe76vt",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl20",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02137_pjxbnh",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl21",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02135_vbzgtj",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl22",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02133_lyaajm",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl23",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC02077_tzjfqt",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl24",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC01986_rscrsa",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl25",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC01800_qv5pcv",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl26",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC09681-Edit-1_sjnum5",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl27",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC05126-1_koxsbw",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl28",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04760-1_obzamc",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl29",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04400-1_aw95el",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl30",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04384-2_bhcp0t",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl31",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC04359-1_oi6kz6",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl32",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC09469-1_ud3wdc",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl33",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC05818_dxshe4",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl34",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC06417-Avec_accentuation-Bruit_dslzzr",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl35",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC01893_ppwv0e",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl36",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC01276_nhxj1d",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl37",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC_1425_vjmtsj",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl38",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC_1411_aeqckp",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl39",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC01352_eewkal",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl40",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC09886-8_kc9kp7",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl41",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC09934-Avec_accentuation-Bruit-9_lc2o08",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl42",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC00095-11_sbrydc",
+      "alt": "Travel and lifestyle photography"
+    },
+    {
+      "id": "tl43",
+      "categoryId": "travel-lifestyle",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-Challenge_6-1-GRAND-4_e73mn1",
+      "alt": "Travel and lifestyle photography"
     }
   ]
 }
