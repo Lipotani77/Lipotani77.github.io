@@ -30,7 +30,7 @@
       "id": "lifestyle",
       "name": "Lifestyle",
       "description": "Capturing everyday moments",
-      "featured": true,
+      "featured": false,
       "thumbnail": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC07134_spzfet"
     },
     {
@@ -360,6 +360,42 @@
       "id": "s20",
       "categoryId": "sports",
       "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/DSC08807_topilf",
+      "alt": "Sports photography"
+    },
+    {
+      "id": "s21",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC05756-5_yglnnu",
+      "alt": "Sports photography"
+    },
+    {
+      "id": "s22",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC05758-6_hh1baw",
+      "alt": "Sports photography"
+    },
+    {
+      "id": "s23",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC05817-14_tbwqxm",
+      "alt": "Sports photography"
+    },
+    {
+      "id": "s24",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC05846-17_otka3i",
+      "alt": "Sports photography"
+    },
+    {
+      "id": "s25",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/sans_titre-DSC06249-30_vtmfar",
+      "alt": "Sports photography"
+    },
+    {
+      "id": "s26",
+      "categoryId": "sports",
+      "url": "https://res.cloudinary.com/dyavfv9l2/image/upload/f_auto,q_auto/untitled-DSC09837-Enhanced-NR-210_dxxcou",
       "alt": "Sports photography"
     },
     {
